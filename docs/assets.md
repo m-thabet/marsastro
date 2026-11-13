@@ -2,6 +2,10 @@
 
 Updated 13 November 2026. This is the authoritative asset brief for the full-screen 3D Mars experience described in [solution.md](solution.md) and [tech plan.md](tech%20plan.md). Application development remains paused for review. All dimensions, polygon counts, and durations below are project production targets, not scientific measurements.
 
+Step-by-step Egyptian Arabic instructions, AI prompts, Blender/MCP setup, and audio preparation: [How to Do Assets.md](How%20to%20Do%20Assets.md).
+
+Preparation status and the user's next actions: [Assets Progress.md](Assets%20Progress.md). Some source files, draft sounds, prompt cards, and a Blender script are prepared; this does not mean the final artwork or 3D models have been created or approved.
+
 ## 1. Where to deliver
 
 Put source assets in the existing project-root [Assets folder](../Assets). Suggested organization:
