@@ -24,6 +24,8 @@ import {
   Radio,
   MapPin,
   ArrowRight,
+  Volume2,
+  VolumeX,
 } from "lucide-react";
 import { BUILDINGS, type BuildingName } from "./content/buildings";
 import {
@@ -51,6 +53,7 @@ import {
 } from "./domain/guidance";
 import { loadSession, saveSession } from "./infrastructure/session";
 import ScienceLibrary from "./components/ScienceLibrary";
+import { MUSIC, useBackgroundMusic } from "./infrastructure/music";
 const Outpost = lazy(() => import("./scenes/Outpost"));
 class SceneBoundary extends Component<
   { children: ReactNode; fallback: ReactNode },
@@ -113,6 +116,7 @@ const BENEFITS: Record<Task, string> = {
   rest: "0 task energy · no research",
 };
 export default function App() {
+  const music = useBackgroundMusic();
   const [session, setSession] = useState(loadSession);
   const { mission, plan, guide } = session;
   const [cameraMode, setCameraMode] = useState<"orbit" | "walk">("walk");
@@ -540,6 +544,31 @@ export default function App() {
         <nav aria-label="Mission navigation">
           <button
             className="icon-button"
+            data-music-control
+            aria-label={
+              music.error
+                ? "Retry background music"
+                : music.playing
+                  ? "Mute background music"
+                  : "Play background music"
+            }
+            aria-pressed={music.playing}
+            title={
+              music.error ||
+              (music.playing
+                ? "Background music playing"
+                : "Music starts after your first interaction")
+            }
+            onClick={music.toggle}
+          >
+            {music.playing && music.volume > 0 ? (
+              <Volume2 size={20} />
+            ) : (
+              <VolumeX size={20} />
+            )}
+          </button>
+          <button
+            className="icon-button"
             aria-label="Mission help"
             onClick={() => setDialog("help")}
           >
@@ -957,6 +986,14 @@ export default function App() {
         </div>
       )}
       <div id="render-stats" className="render-stats" />
+      <audio
+        id="background-music"
+        ref={music.audioRef}
+        src={MUSIC.src}
+        loop
+        preload="none"
+        hidden
+      />
       {dialog === "plan" && (
         <Dialog title="Review mission plan" onClose={() => setDialog(null)}>
           <p>Preview only. You command one crew task per turn.</p>
@@ -1049,6 +1086,45 @@ export default function App() {
       )}
       {dialog === "settings" && (
         <Dialog title="Mission settings" onClose={() => setDialog(null)}>
+          <fieldset className="music-settings" data-music-control>
+            <legend>Background music</legend>
+            <label className="setting-check">
+              <input
+                type="checkbox"
+                checked={music.enabled}
+                onChange={(e) => music.setEnabled(e.target.checked)}
+              />
+              Music enabled
+            </label>
+            <label className="music-volume" htmlFor="background-music-volume">
+              Music volume <output>{Math.round(music.volume * 100)}%</output>
+              <input
+                id="background-music-volume"
+                type="range"
+                min="0"
+                max="100"
+                step="1"
+                value={Math.round(music.volume * 100)}
+                onChange={(e) => music.setVolume(Number(e.target.value) / 100)}
+              />
+            </label>
+            <p className="science-note">
+              {music.error ||
+                "Starts after your first tap or keypress. Pauses while the game tab is hidden."}
+            </p>
+            <p className="music-credit">
+              <a href={MUSIC.source} target="_blank" rel="noreferrer">
+                {MUSIC.title}
+              </a>{" "}
+              by {MUSIC.artist}
+              <br />
+              Released under{" "}
+              <a href={MUSIC.license} target="_blank" rel="noreferrer">
+                CC BY 4.0
+              </a>{" "}
+              · www.scottbuckley.com.au
+            </p>
+          </fieldset>
           <fieldset>
             <legend>Visual quality</legend>
             <button

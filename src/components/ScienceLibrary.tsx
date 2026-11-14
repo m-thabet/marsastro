@@ -1,6 +1,7 @@
 import { Suspense, lazy } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { evidence } from "../data/evidence";
+import { MUSIC } from "../infrastructure/music";
 const RadiationChart = lazy(() => import("./RadiationChart"));
 const FACTS: Record<string, string> = {
   moxie: "MOXIE demonstrated making oxygen from Martian carbon dioxide.",
@@ -93,6 +94,17 @@ export default function ScienceLibrary({ focusId }: { focusId?: string }) {
             </details>
           </article>
         ))}
+      <p className="music-credit">
+        Background music:{" "}
+        <a href={MUSIC.source} target="_blank" rel="noreferrer">
+          {MUSIC.title}
+        </a>{" "}
+        by {MUSIC.artist}, released under{" "}
+        <a href={MUSIC.license} target="_blank" rel="noreferrer">
+          CC BY 4.0
+        </a>
+        . www.scottbuckley.com.au. Transcoded to 128 kbps MP3 for the game.
+      </p>
       <p className="science-note">
         The 3D terrain and models are original procedural illustrations, not
         NASA terrain data. The science library uses archived evidence; all

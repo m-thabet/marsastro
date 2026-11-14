@@ -2406,3 +2406,58 @@ summary {
     font-size: 11px;
   }
 }
+.music-settings {
+  border: 1px solid #a0dbc044;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px 0 22px;
+}
+.music-settings legend {
+  font-size: 14px;
+  font-weight: 700;
+  padding: 0 7px;
+}
+.music-settings .setting-check {
+  margin: 4px 0 18px;
+}
+.music-volume {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  font-size: 13px;
+}
+.music-volume output {
+  color: #b5f2da;
+}
+.music-volume input {
+  grid-column: 1/-1;
+  width: 100%;
+  accent-color: #8ce0d4;
+  min-height: 32px;
+}
+.music-credit {
+  font-size: 11px !important;
+  line-height: 1.7 !important;
+  color: #bed7ca;
+  margin: 14px 0;
+}
+.music-credit a {
+  text-underline-offset: 3px;
+}
+.guided-game .music-settings .science-note {
+  font-size: 11px;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+@media (max-width: 600px) {
+  .guided-game .game-header nav {
+    gap: 0;
+  }
+  .guided-game .game-header .icon-button {
+    min-width: 36px;
+  }
+  .guided-game .game-header .brand {
+    gap: 6px;
+    letter-spacing: 2px;
+  }
+}

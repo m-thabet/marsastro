@@ -214,3 +214,9 @@
 ## Guided arrival texture — 14 November 2026
 
 `public/assets/earth-color.jpg`: Solar System Scope / INOVE Earth day map, CC BY 4.0; resized from 2048×1024 to 1024×512, JPEG quality 86. Source: https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg. License/source catalogue: https://www.solarsystemscope.com/textures/. Used only for the illustrative arrival sequence; no mission measurements are derived from it. Attribution also appears in the in-game science library.
+
+## Background music integration
+
+Added **Adrift Among Infinite Stars** by Scott Buckley, CC BY 4.0. Source: https://www.scottbuckley.com.au/library/adrift-among-infinite-stars/. Full attribution, license, original download and transcoding instructions are in `public/assets/audio/CREDITS.md`. Original: `Assets/audio/music/AdriftAmongInfiniteStars-original.mp3` (16,211,863 bytes). Runtime: `public/assets/audio/adrift-among-infinite-stars.mp3` (6,484,262 bytes; 128 kbps stereo MP3; approximately 405 seconds). Composition retained in full. Not a NASA recording.
+
+The runtime file loads only when playback starts, after a trusted player interaction. Default volume is 24%. The header has mute/play; Settings has enable/disable, volume, and credits. Audio preferences persist separately from mission saves. Playback loops, pauses on hidden tabs, and resumes when possible. A missing file offers retry without blocking gameplay. In-game source credits are also in the Science library. The earlier procedural ambience/SFX drafts remain inactive.

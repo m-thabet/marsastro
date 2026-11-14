@@ -1,0 +1,50 @@
+{
+  "project": "Mars Mission Commander",
+  "team": "plus c",
+  "challenge": "Junior Astronaut Mission Trainer",
+  "reviewDate": "2026-11-14",
+  "brainstormingBoard": "https://miro.com/app/board/uXjVEQ0HwG8=/?share_link_id=199039016859",
+  "sourceRepository": "https://github.com/m-thabet/marsastro",
+  "status": "local playable prototype",
+  "aiTools": [
+    {
+      "tool": "OpenAI Codex",
+      "affectedWork": [
+        "design iteration",
+        "application code",
+        "dialogue and explanations",
+        "procedural Blender/Python asset scripts",
+        "tests",
+        "documentation",
+        "demo graphics and music scripts"
+      ]
+    },
+    {
+      "tool": "ElevenLabs",
+      "affectedWork": [
+        "demo narration"
+      ],
+      "voice": "Dmitry - Energetic and Confident"
+    },
+    {
+      "tool": "OpenAI Whisper",
+      "affectedWork": [
+        "local demo caption timing"
+      ]
+    }
+  ],
+  "nasaObservationsAIGenerated": false,
+  "gameResourceRules": "fictional teaching rules, not calibrated NASA mission or medical data",
+  "evidence": {
+    "localChecks": 44,
+    "localCheckResult": "passed",
+    "browserStatus": "earlier 14-check run documented; final recovery patch rerun outstanding",
+    "learnerImpact": "not yet validated"
+  },
+  "publicLinksPending": [
+    "playable game",
+    "demo video",
+    "NASA Project page"
+  ],
+  "noNASAEndorsement": true
+}
