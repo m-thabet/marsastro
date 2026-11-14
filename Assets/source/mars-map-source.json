@@ -14,5 +14,19 @@
   "bytes": 8396951,
   "sha256": "4cc52149924abc6ae507d63032f994e1d42a55cb82c09e002d1a567ff66c23ee",
   "changes": "None; original download",
-  "limitations": "Processed artistic planetary visualization; not raw NASA data or elevation. 4K derivative not created."
+  "limitations": "Processed artistic planetary visualization; not raw NASA data or elevation. Color-derived normals are illustrative and are not measured elevation.",
+  "derivatives": [
+    {
+      "file": "Assets/world/mars-global-color-4k.jpg",
+      "dimensions": [4096, 2048],
+      "changes": "Resized from the preserved 8192x4096 original using Blender",
+      "createdAt": "2026-11-13"
+    },
+    {
+      "file": "Assets/world/mars-illustrative-normal-2k.png",
+      "dimensions": [2048, 1024],
+      "changes": "Illustrative tangent-space normal map baked from color-map contrast; not elevation data",
+      "createdAt": "2026-11-13"
+    }
+  ]
 }

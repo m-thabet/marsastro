@@ -1,0 +1,46 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 35.54,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\mars-cinematic-scene.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\world\\mars-cinematic-scene.glb",
+  "planet_model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\world\\mars-textured-planet.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\mars-cinematic-scene.png",
+  "model_nodes": 25,
+  "triangles": 43500,
+  "planet_radius_display_meters": 3.2,
+  "planet_dimensions_display_meters": [
+    6.4,
+    6.4,
+    6.4
+  ],
+  "texture_dimensions": [
+    4096,
+    2048
+  ],
+  "normal_dimensions": [
+    2048,
+    1024
+  ],
+  "nebula_dimensions": [
+    2048,
+    1152
+  ],
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "texture_credit": "Solar System Scope / INOVE, CC BY 4.0, https://www.solarsystemscope.com/textures/",
+  "texture_changes": "Resized 8192x4096 source to 4096x2048; color-map contrast used for illustrative normals",
+  "scientific_limitations": "Processed visualization map; color-derived normals are not measured elevation; surrounding rocks and nebula are illustrative",
+  "render_only": [
+    "View-dependent atmosphere shader",
+    "Solar key and cool fill",
+    "Camera",
+    "Compositor bloom"
+  ],
+  "external_files_required_by_glb": [],
+  "refinements": [
+    "Sunlit front-facing atmospheric limb",
+    "Visible warm corner sun",
+    "Canyon centered by an 8-degree globe tilt",
+    "Gentle blue shadow fill"
+  ]
+}

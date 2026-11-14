@@ -1,0 +1,22 @@
+{
+  "validation": "passed",
+  "bytes": 6797780,
+  "nodes": 1746,
+  "meshes": 1253,
+  "materials": 30,
+  "unique_mesh_triangles": 217358,
+  "assemblies": [
+    "Command | communications tower",
+    "Communications | parabolic dish",
+    "Connectors | pressurized passageways",
+    "Greenhouse | geodesic botanical dome",
+    "Habitat | warm residential dome",
+    "Hangar | equipment workshop",
+    "Laboratory | panoramic research facility",
+    "LifeSupport | oxygen and water processing",
+    "Props | logistics and rocks",
+    "Rover | six-wheel exploration vehicle",
+    "SolarArray | twelve individually framed panels",
+    "Terrain | illustrative Mars landscape"
+  ]
+}

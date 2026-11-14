@@ -1,0 +1,21 @@
+{
+  "validation": "passed",
+  "imported_mesh_objects": 1721,
+  "blender_bounds_min": [
+    -145.0,
+    -95.0,
+    -2.774366855621338
+  ],
+  "blender_bounds_max": [
+    145.0,
+    190.40707397460938,
+    22.681734085083008
+  ],
+  "dimensions_meters": [
+    290.0,
+    285.4070739746094,
+    25.456100940704346
+  ],
+  "rover_children": 108,
+  "greenhouse_children": 457
+}

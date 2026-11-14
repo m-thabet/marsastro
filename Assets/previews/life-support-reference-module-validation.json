@@ -1,0 +1,31 @@
+{
+  "validation": "passed",
+  "bytes": 2421508,
+  "nodes": 245,
+  "meshes": 229,
+  "materials": 11,
+  "imported_mesh_objects": 229,
+  "fan_blades": 9,
+  "pressure_tanks": 2,
+  "filter_cartridges": 3,
+  "dimensions_meters": [
+    10.4085,
+    6.1082,
+    6.2235
+  ],
+  "window_material_alpha_mode": "BLEND",
+  "window_recess_back_hit_y": -1.26,
+  "checks": [
+    "Self-contained GLB",
+    "Named fan tank and filter assemblies",
+    "Nine separately editable fan blades",
+    "Portable transparent display material",
+    "Actual cut window cavity",
+    "Finite geometry",
+    "Studio and cutter excluded",
+    "Successful Blender reimport",
+    "Scale and axis conversion"
+  ],
+  "external_files": [],
+  "animation_clips": []
+}

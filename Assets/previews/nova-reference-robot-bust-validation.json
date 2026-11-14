@@ -1,0 +1,25 @@
+{
+  "validation": "passed",
+  "glb_version": 2,
+  "bytes": 3533988,
+  "nodes": 120,
+  "meshes": 110,
+  "materials": 16,
+  "imported_mesh_objects": 110,
+  "dimensions_meters": [
+    1.2544,
+    0.6756,
+    1.7696
+  ],
+  "axes": "Y-up in GLB; restored to Z-up in Blender",
+  "external_files": [],
+  "animation_clips": [],
+  "checks": [
+    "Self-contained GLB structure",
+    "Named robot assemblies",
+    "Portable iris vertex colors",
+    "Studio excluded from export",
+    "Successful Blender reimport",
+    "Scale and orientation"
+  ]
+}

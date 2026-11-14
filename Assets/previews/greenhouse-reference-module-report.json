@@ -1,0 +1,37 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 124.2,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\greenhouse-reference-module.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\buildings\\greenhouse-reference-module.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\greenhouse-reference-module.png",
+  "rear_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\greenhouse-reference-module-rear.png",
+  "nodes": 219,
+  "triangles": 108026,
+  "dimensions_meters": [
+    13.5398,
+    6.2517,
+    7.5579
+  ],
+  "curved_glass_panels": 6,
+  "hydroponic_beds": 6,
+  "plant_clusters": 48,
+  "grow_fixtures": 3,
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "material_type": "Portable PBR colors, transparent glazing, modeled foliage and emissive lights; no image textures",
+  "render_only": [
+    "Grow illumination area lights",
+    "Studio camera floor and lights",
+    "Compositor bloom"
+  ],
+  "scope": "Editable stylized greenhouse with visible planted interior based on the supplied reference",
+  "refinements": [
+    "Open sill perimeter and visible walkway",
+    "Exposed planter walls",
+    "Deeper leaf greens and short stems",
+    "Outward end-cap normals",
+    "Closer centered studio framing"
+  ]
+}

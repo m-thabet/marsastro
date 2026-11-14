@@ -1,0 +1,24 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 126.81,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\life-support-reference-module.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\buildings\\life-support-reference-module.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\life-support-reference-module.png",
+  "rear_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\life-support-reference-module-rear.png",
+  "nodes": 245,
+  "triangles": 84932,
+  "dimensions_meters": [
+    10.4085,
+    6.1082,
+    6.2235
+  ],
+  "fan_blades": 9,
+  "pressure_tanks": 2,
+  "filter_cartridges": 3,
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "material_type": "Portable PBR colors, transparent glazing and emissive status bands; no image textures",
+  "scope": "Stylized editable life-support module inspired by the supplied reference"
+}

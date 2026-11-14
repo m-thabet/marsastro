@@ -1,0 +1,37 @@
+{
+  "validation": "passed",
+  "scene": {
+    "file": "mars-cinematic-scene.glb",
+    "bytes": 7371232,
+    "nodes": 25,
+    "meshes": 20,
+    "materials": 10,
+    "embedded_images": 3,
+    "validation": "passed"
+  },
+  "planet": {
+    "file": "mars-textured-planet.glb",
+    "bytes": 6267936,
+    "nodes": 2,
+    "meshes": 1,
+    "materials": 1,
+    "embedded_images": 2,
+    "validation": "passed"
+  },
+  "planet_dimensions_display_meters": [
+    6.4,
+    6.3997,
+    6.3998
+  ],
+  "checks": [
+    "Both GLB containers",
+    "Embedded base color and normal maps",
+    "Named assemblies",
+    "No studio or atmosphere objects exported",
+    "Actual planet GLB reimport",
+    "Actual complete scene GLB reimport",
+    "Texture dimensions",
+    "Y-up to Blender Z-up conversion"
+  ],
+  "display_scale_note": "6.4-meter demonstration sphere, not the physical diameter of Mars"
+}

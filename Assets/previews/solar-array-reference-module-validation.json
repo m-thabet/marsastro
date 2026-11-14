@@ -1,0 +1,28 @@
+{
+  "validation": "passed",
+  "bytes": 2221180,
+  "nodes": 292,
+  "meshes": 274,
+  "materials": 12,
+  "imported_mesh_objects": 274,
+  "panels": 8,
+  "cells_per_panel": 64,
+  "pivot_tilt_degrees": 30,
+  "dimensions_meters": [
+    12.12,
+    4.5875,
+    3.8996
+  ],
+  "checks": [
+    "Self-contained GLB",
+    "Eight separately named panels",
+    "Eight geometric 8x8 cell grids",
+    "Two functional 30-degree bank pivots",
+    "Finite geometry",
+    "Studio excluded",
+    "Actual Blender reimport",
+    "Scale and axis conversion"
+  ],
+  "external_files": [],
+  "animation_clips": []
+}

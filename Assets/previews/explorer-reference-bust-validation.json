@@ -1,0 +1,25 @@
+{
+  "validation": "passed",
+  "bytes": 5925768,
+  "nodes": 410,
+  "meshes": 402,
+  "materials": 24,
+  "imported_mesh_objects": 402,
+  "dimensions_meters": [
+    1.1088,
+    0.5989,
+    1.5294
+  ],
+  "checks": [
+    "GLB structure",
+    "Self-contained materials",
+    "Named assemblies",
+    "Skin and iris vertex colors",
+    "Studio excluded",
+    "Successful Blender reimport",
+    "Scale and axis conversion"
+  ],
+  "axes": "Y-up GLB; restored to Z-up in Blender",
+  "external_files": [],
+  "animation_clips": []
+}

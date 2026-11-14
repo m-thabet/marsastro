@@ -1,0 +1,31 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 39.15,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\explorer-reference-bust.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\characters\\explorer-reference-bust.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\explorer-reference-bust.png",
+  "back_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\explorer-reference-bust-back.png",
+  "model_nodes": 410,
+  "triangles": 257644,
+  "dimensions_meters": [
+    1.1088,
+    0.5989,
+    1.5294
+  ],
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "scope": "Stylized editable character bust inspired by the supplied portrait",
+  "note": "Procedural interpretation rather than an exact likeness; detailed master for visual review",
+  "refinements": [
+    "Overlapping C-shaped hair locks",
+    "Fuller chestnut hair mass",
+    "Smoothed facial sculpt",
+    "Clean orange shoulder panels",
+    "Relaxed head tilt",
+    "Continuous supporting curl volume",
+    "Reduced fine-strand geometry",
+    "Coherent swept hairstyle with 140 surface-following groom strands"
+  ]
+}

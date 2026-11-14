@@ -1,0 +1,30 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 39.2,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\nova-reference-robot-bust.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\characters\\nova-reference-robot-bust.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\nova-reference-robot-bust.png",
+  "back_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\nova-reference-robot-bust-back.png",
+  "model_objects": 120,
+  "triangles": 165908,
+  "dimensions_meters": [
+    1.2544,
+    0.6756,
+    1.7696
+  ],
+  "units": "meters",
+  "export_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "scope": "Static editable upper-body robot bust based on user-provided portrait",
+  "materials": "Portable PBR colors and modeled facial features; no image textures",
+  "reference": "User-supplied image in conversation; no reference image embedded",
+  "refinements": [
+    "Continuous helmet rim",
+    "Volumetric display without center-pole artifact",
+    "Darker midnight glass",
+    "More saturated green trim",
+    "Surface-mounted crown insert",
+    "Machined rounded crown plate"
+  ]
+}

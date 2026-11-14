@@ -1,0 +1,32 @@
+{
+  "validation": "passed",
+  "bytes": 2957320,
+  "nodes": 219,
+  "meshes": 201,
+  "materials": 14,
+  "imported_mesh_objects": 201,
+  "dimensions_meters": [
+    13.5399,
+    6.2517,
+    7.5579
+  ],
+  "curved_glazing_panels": 6,
+  "hydroponic_beds": 6,
+  "plant_clusters": 48,
+  "grow_fixtures": 3,
+  "glazing_alpha_mode": "BLEND",
+  "walkway_top_z": 0.8875,
+  "checks": [
+    "Self-contained GLB",
+    "Six planted trays with eight crop clusters each",
+    "Six curved transparent panes",
+    "Three emissive grow fixtures",
+    "Open perimeter sill and accessible interior floor",
+    "Finite geometry",
+    "Studio grow-illumination lights and cutter excluded",
+    "Actual Blender reimport",
+    "Scale and axis conversion"
+  ],
+  "external_files": [],
+  "animation_clips": []
+}

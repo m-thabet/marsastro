@@ -1,0 +1,23 @@
+{
+  "validation": "passed",
+  "bytes": 4038800,
+  "nodes": 220,
+  "meshes": 211,
+  "materials": 10,
+  "imported_mesh_objects": 211,
+  "dimensions_meters": [
+    13.9304,
+    11.1825,
+    8.0492
+  ],
+  "checks": [
+    "GLB container and embedded buffers",
+    "Named exterior assemblies",
+    "Finite geometry",
+    "Studio objects excluded",
+    "Successful Blender reimport",
+    "Scale and Y-up to Z-up conversion"
+  ],
+  "external_files": [],
+  "animation_clips": []
+}

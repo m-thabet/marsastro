@@ -1,0 +1,38 @@
+{
+  "validation": "passed",
+  "bytes": 5960460,
+  "nodes": 465,
+  "meshes": 434,
+  "materials": 13,
+  "imported_mesh_objects": 434,
+  "dimensions_meters": [
+    14.56,
+    16.91,
+    1.9275
+  ],
+  "beacons": 4,
+  "deck_grilles": 4,
+  "deck_plates": 48,
+  "inner_guide_radial_bounds_meters": [
+    2.955,
+    3.205
+  ],
+  "ramp_sample_heights_meters": [
+    0.1927,
+    0.7535
+  ],
+  "checks": [
+    "Self-contained GLB",
+    "48 segmented deck plates",
+    "Four beacon and grille assemblies",
+    "Portable emissive markers",
+    "Concentric guide-ring geometry",
+    "True sloped ramp",
+    "Finite geometry",
+    "Studio excluded",
+    "Actual Blender reimport",
+    "Scale and axis conversion"
+  ],
+  "external_files": [],
+  "animation_clips": []
+}

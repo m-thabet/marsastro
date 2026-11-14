@@ -1,0 +1,29 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 63.58,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\solar-array-reference-module.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\buildings\\solar-array-reference-module.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\solar-array-reference-module.png",
+  "rear_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\solar-array-reference-module-rear.png",
+  "nodes": 292,
+  "triangles": 57072,
+  "dimensions_meters": [
+    12.12,
+    4.5875,
+    3.8996
+  ],
+  "panels": 8,
+  "cells_per_panel": 64,
+  "bank_tilt_degrees": 30,
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "material_type": "Portable PBR colors and geometric cell grids; no image textures",
+  "scope": "Editable stylized twin-bank solar module based on the user-provided reference",
+  "refinements": [
+    "Raised center deck to resolve coplanar overlap",
+    "Darker navy photovoltaic finish",
+    "More saturated orange guards"
+  ]
+}

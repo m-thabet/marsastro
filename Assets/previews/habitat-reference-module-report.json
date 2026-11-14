@@ -1,0 +1,29 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 56.87,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\habitat-reference-module.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\buildings\\habitat-reference-module.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\habitat-reference-module.png",
+  "rear_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\habitat-reference-module-rear.png",
+  "nodes": 220,
+  "triangles": 188132,
+  "dimensions_meters": [
+    13.9304,
+    11.1825,
+    8.0492
+  ],
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "material_type": "Portable PBR colors and modeled details; no image textures",
+  "scope": "Editable stylized exterior habitat interpretation of the user-provided reference",
+  "refinements": [
+    "Continuous quad glazing",
+    "Correct window surface normals",
+    "Airlock surround contour and equipment insets",
+    "Deeper orange trim",
+    "Dark ramp tread material",
+    "Studio contrast"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 192.7,
+  "objects": 1748,
+  "triangles": 226706,
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\mars-reference-outpost.blend",
+  "export": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\world\\mars-reference-outpost.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\mars-reference-outpost.png",
+  "style": "Original procedural interpretation of user-provided reference",
+  "scientific_data": false,
+  "ui_included": false,
+  "external_assets": [],
+  "animation_clips": [],
+  "texture_images": [],
+  "note": "Review scene; detailed assembly requires optimization before runtime integration.",
+  "refinements": [
+    "Ground-level drive",
+    "Corrected triangular greenhouse frame",
+    "Softer eroded cliffs",
+    "Lower strategy camera",
+    "Brighter peach atmosphere",
+    "Continuous sandstone vertex colors",
+    "Fine sand bump",
+    "Simplified 162-pane greenhouse dome"
+  ]
+}

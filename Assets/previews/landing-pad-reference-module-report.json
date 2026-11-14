@@ -1,0 +1,30 @@
+{
+  "stage": "Complete",
+  "elapsed_seconds": 80.54,
+  "source": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\source\\landing-pad-reference-module.blend",
+  "model": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\buildings\\landing-pad-reference-module.glb",
+  "preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\landing-pad-reference-module.png",
+  "top_preview": "C:\\Users\\IT3MS\\Downloads\\nasa\\Assets\\previews\\landing-pad-reference-module-top.png",
+  "nodes": 465,
+  "triangles": 144632,
+  "dimensions_meters": [
+    14.56,
+    16.91,
+    1.9275
+  ],
+  "beacons": 4,
+  "deck_grilles": 4,
+  "deck_sectors": 12,
+  "access_ramps": 1,
+  "units": "meters",
+  "gltf_up_axis": "Y",
+  "animation_clips": [],
+  "external_assets": [],
+  "material_type": "Portable PBR colors, emissive markers, and modeled guide rings and grilles; no image textures",
+  "scope": "Editable stylized circular landing pad based on the user-provided reference",
+  "refinements": [
+    "Reference-facing left ramp composition",
+    "Darker matte titanium deck",
+    "Less reflective safety-orange guide paint"
+  ]
+}
