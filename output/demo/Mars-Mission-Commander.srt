@@ -1,0 +1,43 @@
+1
+00:00:00,350 --> 00:00:01,750
+We're plus C.
+
+2
+00:00:01,850 --> 00:00:02,950
+Our challenge:
+
+3
+00:00:03,000 --> 00:00:05,300
+Junior Astronaut Mission Trainer.
+
+4
+00:00:05,369 --> 00:00:07,470
+Space survival is hard to teach.
+
+5
+00:00:07,520 --> 00:00:09,310
+Meet Mars Mission Commander.
+
+6
+00:00:09,350 --> 00:00:10,549
+Explore Mars.
+
+7
+00:00:10,580 --> 00:00:12,780
+Balance oxygen, power, and food.
+
+8
+00:00:12,830 --> 00:00:15,280
+See every choice change your mission.
+
+9
+00:00:15,310 --> 00:00:18,290
+NASA's MOXIE, radiation data, and plant research
+
+10
+00:00:18,370 --> 00:00:20,430
+connect decisions to real science.
+
+11
+00:00:20,470 --> 00:00:24,070
+Our playable prototype helps young explorers learn by doing.

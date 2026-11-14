@@ -1,0 +1,22 @@
+Mars Mission Commander | Team plus c
+Challenge: Junior Astronaut Mission Trainer
+
+Space survival is hard to teach. Mars Mission Commander is a playable educational prototype designed to help young explorers practise decisions about oxygen, power, water and food. Players explore an illustrated Mars outpost, balance limited resources, and see how their choices change the mission. The demo shows the current local prototype, not a future feature or a certified mission simulator.
+
+NASA's MOXIE demonstration informs the oxygen-production lesson; NASA OSDR RadLab's archived ISS DosTel1 observations support discussion of radiation; OSD-314 plant research informs the explanation of light and space seedlings. The four radiation measurements shown are from the ISS on 1 April 2022, not Mars. Resource rates, exposure points, growth times and events in the game are fictional teaching rules. No NASA endorsement is implied.
+
+Credits
+- Science: NASA/JPL-Caltech, MOXIE; NASA OSDR / DosTel instrument contributors, RadLab; Villacampa, Ciska, Manzano, Vandenbrink, Kiss, Herranz and Medina (2021), OSD-314, DOI 10.3390/ijms22020899.
+- Globe maps: Solar System Scope / INOVE, CC BY 4.0; adapted with resizing, rotation, lighting and color treatment. https://www.solarsystemscope.com/textures/ | https://creativecommons.org/licenses/by/4.0/
+- Fonts: Manrope / Manrope Project Authors and DM Sans / DM Sans Project Authors; SIL Open Font License 1.1.
+- Original illustrative game assets and procedural interface effects: Mars Mission Commander project.
+- Original background score: an original synthesized space-adventure composition, 104 BPM, composed programmatically with AI assistance. No third-party music, melodies or stock audio samples were imported.
+
+AI disclosure
+The narration is AI-generated audio supplied by the team using ElevenLabs, voice “Dmitry — Energetic and Confident.” Motion graphics, procedural game visuals, music and effects were produced with AI assistance. The video contains a visible AI-generated-visuals label. Generated content does not use NASA logos, flags or official graphic branding. NASA is named only to credit scientific sources.
+
+Sources
+https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/
+https://visualization.osdr.nasa.gov/radlab/gui/data-api/
+https://osdr.nasa.gov/bio/repo/data/studies/OSD-314
+https://www.mdpi.com/1422-0067/22/2/899

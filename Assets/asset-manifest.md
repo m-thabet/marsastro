@@ -1,3 +1,16 @@
+> **Runtime integration ? 14 November 2026:** The game now uses optimized model derivatives under `public/assets/models`. Detailed review masters below are preserved. Current implementation and validation: [Implementation report](../docs/Implementation.md).
+
+## Game-ready asset set ? integrated
+
+- 17 self-contained GLBs, 7,866,136 bytes total. Initial scene geometry: 140,948 triangles including repeated rocks and three crew models.
+- Derived and refined: habitat, solar array, life support, greenhouse, landing pad, laboratory, communication dish, maintenance/storage module, and six-wheel rover.
+- Created in Blender: bounded terrain basin, service paths, rock, shielded shelter, full-body articulated pressure suit, landing vehicle, battery cabinets and supply crates.
+- Editable generated sources: `source/game-*.blend`; complete runtime catalogue: `source/game-runtime-catalogue.blend`. Existing reference masters are unchanged.
+- Production: `source/build_game_assets.py`; optional equipment pass: `source/build_game_equipment.py`; image optimization: `source/optimize_game_images.py`. Runtime statistics: `../public/assets/models/asset-report.json`.
+- UI portraits are reduced copies of existing renders. The 2K globe texture derives from the credited Solar System Scope map (CC BY 4.0). Credit is shown in the game.
+- No external 3D generation service was used. Geometry is illustrative. Export files were reimported into Blender; automated checks inspect the actual GLB buffers, finite positions and articulation nodes. Actual desktop and mobile browser renders were inspected.
+- These are integrated runtime assets; animation is procedural and real-device performance/learner validation is still pending. Earlier sections describing assets as unintegrated are historical review-master records.
+
 # سجل تجهيز الأصول
 
 تاريخ التنفيذ: 13 نوفمبر 2026. الملفات دي تجهيزات ومقترحات للمراجعة؛ مفيش دمج في التطبيق أو اعتماد فني نهائي.
@@ -197,3 +210,7 @@
 2. تشغيل Habitat Script وإرسال صورته وتقريره، أو توصيل Blender MCP عشان نراجعه سوا.
 3. بعد اعتماد الشكل: باقي الموديلات، Maya، وخيارات الصوت/التعبيرات/الشعار.
 4. ملفات `preferences.md` والصور النهائية لسه مش متسلمة؛ مجلدات `references/world` القديمة اتسيبت زي ما هي.
+
+## Guided arrival texture — 14 November 2026
+
+`public/assets/earth-color.jpg`: Solar System Scope / INOVE Earth day map, CC BY 4.0; resized from 2048×1024 to 1024×512, JPEG quality 86. Source: https://www.solarsystemscope.com/textures/download/2k_earth_daymap.jpg. License/source catalogue: https://www.solarsystemscope.com/textures/. Used only for the illustrative arrival sequence; no mission measurements are derived from it. Attribution also appears in the in-game science library.

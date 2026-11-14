@@ -1,4 +1,4 @@
-import { z } from "zod";
+﻿import { z } from "zod";
 import {
   initialMission,
   commitTurn,
@@ -7,7 +7,7 @@ import {
   type Mission,
 } from "../domain/mission";
 export const SAVE_KEY = "marsastro.save.v1";
-const planSchema = z.object({
+export const planSchema = z.object({
   oxygenOn: z.boolean(),
   greenhouseOn: z.boolean(),
   task: z.enum([

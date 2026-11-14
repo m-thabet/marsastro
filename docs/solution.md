@@ -1,3 +1,5 @@
+> **Current implementation - 14 November 2026:** The guided arrival, model-based world, continuous six-turn objectives, crew interactions, live allocation forecasts, and short debrief are implemented locally. See [Implementation.md](Implementation.md) for current behavior, sources, verification, and remaining limits. Planning-only and proposed-state statements below are historical.
+
 # Mars Mission Commander — solution
 
 Status: revised direction awaiting user review, 13 November 2026. This plan supersedes the dashboard layout in prototype 0.1.0. Application implementation is paused until the user reviews this revision. Technical reference: [tech plan.md](tech%20plan.md).

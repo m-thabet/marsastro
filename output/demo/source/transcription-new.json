@@ -1,0 +1,496 @@
+{
+  "text": " We're plus C. Our challenge? Junior Astronaut Mission Trainer. Space survival is hard to teach. Meet Mars Mission Commander. Explore Mars, balance oxygen, power, and food. See every choice change your mission. NASA's MOXIE radiation data and plant research connect decisions to real science. Our playable prototype helps young explorers learn by doing. NASA MOXIE. We're plus C. Our challenge?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 27.16,
+      "text": " We're plus C. Our challenge? Junior Astronaut Mission Trainer. Space survival is hard to teach. Meet Mars Mission Commander. Explore Mars, balance oxygen, power, and food. See every choice change your mission. NASA's MOXIE radiation data and plant research connect decisions to real science. Our playable prototype helps young explorers learn by doing.",
+      "tokens": [
+        50364,
+        492,
+        434,
+        1804,
+        383,
+        13,
+        2621,
+        3430,
+        30,
+        21954,
+        36819,
+        1375,
+        20170,
+        48494,
+        13,
+        8705,
+        12559,
+        307,
+        1152,
+        281,
+        2924,
+        13,
+        22963,
+        9692,
+        20170,
+        20857,
+        13,
+        12514,
+        418,
+        9692,
+        11,
+        4772,
+        9169,
+        11,
+        1347,
+        11,
+        293,
+        1755,
+        13,
+        3008,
+        633,
+        3922,
+        1319,
+        428,
+        4447,
+        13,
+        12077,
+        311,
+        19290,
+        55,
+        6550,
+        12420,
+        1412,
+        293,
+        3709,
+        2132,
+        1745,
+        5327,
+        281,
+        957,
+        3497,
+        13,
+        2621,
+        37146,
+        19475,
+        3665,
+        2037,
+        24765,
+        433,
+        1466,
+        538,
+        884,
+        13
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11366960164662954,
+      "compression_ratio": 1.4545454545454546,
+      "no_speech_prob": 0.002731500891968608,
+      "words": [
+        {
+          "word": " We're",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.7323650419712067
+        },
+        {
+          "word": " plus",
+          "start": 0.38,
+          "end": 0.62,
+          "probability": 0.6839879155158997
+        },
+        {
+          "word": " C.",
+          "start": 0.62,
+          "end": 1.0,
+          "probability": 0.8532042503356934
+        },
+        {
+          "word": " Our",
+          "start": 1.46,
+          "end": 1.72,
+          "probability": 0.968978762626648
+        },
+        {
+          "word": " challenge?",
+          "start": 1.72,
+          "end": 2.2,
+          "probability": 0.8617823123931885
+        },
+        {
+          "word": " Junior",
+          "start": 2.82,
+          "end": 3.04,
+          "probability": 0.8116067051887512
+        },
+        {
+          "word": " Astronaut",
+          "start": 3.04,
+          "end": 3.76,
+          "probability": 0.7212272733449936
+        },
+        {
+          "word": " Mission",
+          "start": 3.76,
+          "end": 4.08,
+          "probability": 0.6529526114463806
+        },
+        {
+          "word": " Trainer.",
+          "start": 4.08,
+          "end": 4.62,
+          "probability": 0.8989421129226685
+        },
+        {
+          "word": " Space",
+          "start": 5.14,
+          "end": 5.54,
+          "probability": 0.9820074439048767
+        },
+        {
+          "word": " survival",
+          "start": 5.54,
+          "end": 6.14,
+          "probability": 0.7545878291130066
+        },
+        {
+          "word": " is",
+          "start": 6.14,
+          "end": 6.42,
+          "probability": 0.9988284707069397
+        },
+        {
+          "word": " hard",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.9993114471435547
+        },
+        {
+          "word": " to",
+          "start": 6.62,
+          "end": 6.8,
+          "probability": 0.9966296553611755
+        },
+        {
+          "word": " teach.",
+          "start": 6.8,
+          "end": 7.28,
+          "probability": 0.9978970289230347
+        },
+        {
+          "word": " Meet",
+          "start": 7.66,
+          "end": 7.78,
+          "probability": 0.8588947057723999
+        },
+        {
+          "word": " Mars",
+          "start": 7.78,
+          "end": 8.1,
+          "probability": 0.9531828761100769
+        },
+        {
+          "word": " Mission",
+          "start": 8.1,
+          "end": 8.58,
+          "probability": 0.767061173915863
+        },
+        {
+          "word": " Commander.",
+          "start": 8.58,
+          "end": 9.14,
+          "probability": 0.926274836063385
+        },
+        {
+          "word": " Explore",
+          "start": 9.66,
+          "end": 10.16,
+          "probability": 0.9858036637306213
+        },
+        {
+          "word": " Mars,",
+          "start": 10.16,
+          "end": 10.52,
+          "probability": 0.9894638061523438
+        },
+        {
+          "word": " balance",
+          "start": 10.98,
+          "end": 11.28,
+          "probability": 0.8909305930137634
+        },
+        {
+          "word": " oxygen,",
+          "start": 11.28,
+          "end": 11.88,
+          "probability": 0.9290871620178223
+        },
+        {
+          "word": " power,",
+          "start": 12.22,
+          "end": 12.52,
+          "probability": 0.9974398612976074
+        },
+        {
+          "word": " and",
+          "start": 12.76,
+          "end": 12.86,
+          "probability": 0.9988471269607544
+        },
+        {
+          "word": " food.",
+          "start": 12.86,
+          "end": 13.28,
+          "probability": 0.9971022009849548
+        },
+        {
+          "word": " See",
+          "start": 13.9,
+          "end": 14.0,
+          "probability": 0.9945017099380493
+        },
+        {
+          "word": " every",
+          "start": 14.0,
+          "end": 14.36,
+          "probability": 0.9870575070381165
+        },
+        {
+          "word": " choice",
+          "start": 14.36,
+          "end": 14.82,
+          "probability": 0.9980720281600952
+        },
+        {
+          "word": " change",
+          "start": 14.82,
+          "end": 15.44,
+          "probability": 0.6412010788917542
+        },
+        {
+          "word": " your",
+          "start": 15.44,
+          "end": 15.76,
+          "probability": 0.9971886277198792
+        },
+        {
+          "word": " mission.",
+          "start": 15.76,
+          "end": 16.12,
+          "probability": 0.9983932375907898
+        },
+        {
+          "word": " NASA's",
+          "start": 16.88,
+          "end": 17.36,
+          "probability": 0.9920463263988495
+        },
+        {
+          "word": " MOXIE",
+          "start": 17.36,
+          "end": 17.84,
+          "probability": 0.3204946542779605
+        },
+        {
+          "word": " radiation",
+          "start": 17.84,
+          "end": 18.4,
+          "probability": 0.383414089679718
+        },
+        {
+          "word": " data",
+          "start": 18.4,
+          "end": 19.04,
+          "probability": 0.9961124062538147
+        },
+        {
+          "word": " and",
+          "start": 19.04,
+          "end": 19.34,
+          "probability": 0.977728009223938
+        },
+        {
+          "word": " plant",
+          "start": 19.34,
+          "end": 19.62,
+          "probability": 0.9827720522880554
+        },
+        {
+          "word": " research",
+          "start": 19.62,
+          "end": 20.12,
+          "probability": 0.998372495174408
+        },
+        {
+          "word": " connect",
+          "start": 20.12,
+          "end": 20.54,
+          "probability": 0.9927573204040527
+        },
+        {
+          "word": " decisions",
+          "start": 20.54,
+          "end": 21.18,
+          "probability": 0.9889585971832275
+        },
+        {
+          "word": " to",
+          "start": 21.18,
+          "end": 21.52,
+          "probability": 0.9990519881248474
+        },
+        {
+          "word": " real",
+          "start": 21.52,
+          "end": 21.8,
+          "probability": 0.9586312174797058
+        },
+        {
+          "word": " science.",
+          "start": 21.8,
+          "end": 22.4,
+          "probability": 0.9974560141563416
+        },
+        {
+          "word": " Our",
+          "start": 22.82,
+          "end": 23.2,
+          "probability": 0.997386634349823
+        },
+        {
+          "word": " playable",
+          "start": 23.2,
+          "end": 23.64,
+          "probability": 0.869106113910675
+        },
+        {
+          "word": " prototype",
+          "start": 23.64,
+          "end": 24.34,
+          "probability": 0.9888002872467041
+        },
+        {
+          "word": " helps",
+          "start": 24.34,
+          "end": 24.78,
+          "probability": 0.989686906337738
+        },
+        {
+          "word": " young",
+          "start": 24.78,
+          "end": 25.06,
+          "probability": 0.994659960269928
+        },
+        {
+          "word": " explorers",
+          "start": 25.06,
+          "end": 25.92,
+          "probability": 0.9887848198413849
+        },
+        {
+          "word": " learn",
+          "start": 25.92,
+          "end": 26.28,
+          "probability": 0.998306393623352
+        },
+        {
+          "word": " by",
+          "start": 26.28,
+          "end": 26.72,
+          "probability": 0.9976359605789185
+        },
+        {
+          "word": " doing.",
+          "start": 26.72,
+          "end": 27.16,
+          "probability": 0.9779276847839355
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2716,
+      "start": 27.16,
+      "end": 27.38,
+      "text": " NASA MOXIE. We're plus C. Our challenge?",
+      "tokens": [
+        50364,
+        12077,
+        19290,
+        55,
+        6550,
+        13,
+        492,
+        434,
+        1804,
+        383,
+        13,
+        2621,
+        3430,
+        30
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.89017333984375,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.6835203170776367,
+      "words": [
+        {
+          "word": " NASA",
+          "start": 27.16,
+          "end": 27.36,
+          "probability": 5.194058394408785e-05
+        },
+        {
+          "word": " MOXIE.",
+          "start": 27.36,
+          "end": 27.36,
+          "probability": 0.0019280495871498715
+        },
+        {
+          "word": " We're",
+          "start": 27.36,
+          "end": 27.38,
+          "probability": 0.1180337299592793
+        },
+        {
+          "word": " plus",
+          "start": 27.38,
+          "end": 27.38,
+          "probability": 1.7714866771711968e-05
+        },
+        {
+          "word": " C.",
+          "start": 27.38,
+          "end": 27.38,
+          "probability": 0.0003324340214021504
+        },
+        {
+          "word": " Our",
+          "start": 27.38,
+          "end": 27.38,
+          "probability": 0.003430474316701293
+        },
+        {
+          "word": " challenge?",
+          "start": 27.38,
+          "end": 27.38,
+          "probability": 5.51584453205578e-05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2738,
+      "start": 27.36,
+      "end": 27.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.43524971008300783,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.8207030892372131,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

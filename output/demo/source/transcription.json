@@ -1,0 +1,572 @@
+{
+  "text": " Where PLUS see our challenge? Junior astronaut Mishin Trainer. Space survival is hard to teach. Mith Mars Mishin Commander. Explore Mars. Balance Oxygen, Power and Food. See every choice, change your mission. NASA Smoksi, Radiation Data and Plant Research. Connect decision to real science. Our playable prototype helps young explorers learn by doing.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.24,
+      "text": " Where PLUS see our challenge?",
+      "tokens": [
+        50364,
+        2305,
+        6999,
+        3447,
+        536,
+        527,
+        3430,
+        30,
+        50491
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Where",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.45188024640083313
+        },
+        {
+          "word": " PLUS",
+          "start": 0.34,
+          "end": 0.82,
+          "probability": 0.5028791055083275
+        },
+        {
+          "word": " see",
+          "start": 0.82,
+          "end": 1.06,
+          "probability": 0.47993531823158264
+        },
+        {
+          "word": " our",
+          "start": 1.06,
+          "end": 1.78,
+          "probability": 0.3604283630847931
+        },
+        {
+          "word": " challenge?",
+          "start": 1.78,
+          "end": 2.24,
+          "probability": 0.74467933177948
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.86,
+      "end": 4.64,
+      "text": " Junior astronaut Mishin Trainer.",
+      "tokens": [
+        50491,
+        21954,
+        18516,
+        376,
+        742,
+        259,
+        48494,
+        13,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Junior",
+          "start": 2.86,
+          "end": 3.02,
+          "probability": 0.5496476292610168
+        },
+        {
+          "word": " astronaut",
+          "start": 3.02,
+          "end": 3.54,
+          "probability": 0.8673506379127502
+        },
+        {
+          "word": " Mishin",
+          "start": 3.54,
+          "end": 4.26,
+          "probability": 0.3848851223786672
+        },
+        {
+          "word": " Trainer.",
+          "start": 4.26,
+          "end": 4.64,
+          "probability": 0.335904061794281
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.02,
+      "end": 6.82,
+      "text": " Space survival is hard to teach.",
+      "tokens": [
+        50608,
+        8705,
+        12559,
+        307,
+        1152,
+        281,
+        2924,
+        13,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Space",
+          "start": 5.02,
+          "end": 5.4,
+          "probability": 0.7582205533981323
+        },
+        {
+          "word": " survival",
+          "start": 5.4,
+          "end": 5.88,
+          "probability": 0.7264370322227478
+        },
+        {
+          "word": " is",
+          "start": 5.88,
+          "end": 6.1,
+          "probability": 0.9229089021682739
+        },
+        {
+          "word": " hard",
+          "start": 6.1,
+          "end": 6.3,
+          "probability": 0.6868888139724731
+        },
+        {
+          "word": " to",
+          "start": 6.3,
+          "end": 6.48,
+          "probability": 0.9950372576713562
+        },
+        {
+          "word": " teach.",
+          "start": 6.48,
+          "end": 6.82,
+          "probability": 0.9723337292671204
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.34,
+      "end": 8.56,
+      "text": " Mith Mars Mishin Commander.",
+      "tokens": [
+        50716,
+        376,
+        355,
+        9692,
+        376,
+        742,
+        259,
+        20857,
+        13,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Mith",
+          "start": 7.34,
+          "end": 7.48,
+          "probability": 0.40883761644363403
+        },
+        {
+          "word": " Mars",
+          "start": 7.48,
+          "end": 7.74,
+          "probability": 0.3404242992401123
+        },
+        {
+          "word": " Mishin",
+          "start": 7.74,
+          "end": 8.16,
+          "probability": 0.9357948501904806
+        },
+        {
+          "word": " Commander.",
+          "start": 8.16,
+          "end": 8.56,
+          "probability": 0.7769231200218201
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.06,
+      "end": 9.92,
+      "text": " Explore Mars.",
+      "tokens": [
+        50806,
+        12514,
+        418,
+        9692,
+        13,
+        50869
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Explore",
+          "start": 9.06,
+          "end": 9.56,
+          "probability": 0.840955525636673
+        },
+        {
+          "word": " Mars.",
+          "start": 9.56,
+          "end": 9.92,
+          "probability": 0.979848325252533
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.32,
+      "end": 12.06,
+      "text": " Balance Oxygen, Power and Food.",
+      "tokens": [
+        50869,
+        41899,
+        16489,
+        8647,
+        11,
+        7086,
+        293,
+        11675,
+        13,
+        50981
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Balance",
+          "start": 10.32,
+          "end": 10.54,
+          "probability": 0.6612629890441895
+        },
+        {
+          "word": " Oxygen,",
+          "start": 10.54,
+          "end": 11.18,
+          "probability": 0.7661063075065613
+        },
+        {
+          "word": " Power",
+          "start": 11.4,
+          "end": 11.66,
+          "probability": 0.8480345606803894
+        },
+        {
+          "word": " and",
+          "start": 11.66,
+          "end": 11.86,
+          "probability": 0.659232497215271
+        },
+        {
+          "word": " Food.",
+          "start": 11.86,
+          "end": 12.06,
+          "probability": 0.5713357925415039
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.5,
+      "end": 14.54,
+      "text": " See every choice, change your mission.",
+      "tokens": [
+        50981,
+        3008,
+        633,
+        3922,
+        11,
+        1319,
+        428,
+        4447,
+        13,
+        51104
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " See",
+          "start": 12.5,
+          "end": 12.76,
+          "probability": 0.9785829782485962
+        },
+        {
+          "word": " every",
+          "start": 12.76,
+          "end": 13.14,
+          "probability": 0.5609571933746338
+        },
+        {
+          "word": " choice,",
+          "start": 13.14,
+          "end": 13.54,
+          "probability": 0.871202826499939
+        },
+        {
+          "word": " change",
+          "start": 13.86,
+          "end": 14.08,
+          "probability": 0.8651198744773865
+        },
+        {
+          "word": " your",
+          "start": 14.08,
+          "end": 14.26,
+          "probability": 0.5784021615982056
+        },
+        {
+          "word": " mission.",
+          "start": 14.26,
+          "end": 14.54,
+          "probability": 0.6229216456413269
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.06,
+      "end": 17.64,
+      "text": " NASA Smoksi, Radiation Data and Plant Research.",
+      "tokens": [
+        51104,
+        12077,
+        3915,
+        453,
+        7691,
+        11,
+        37806,
+        399,
+        11888,
+        293,
+        28995,
+        10303,
+        13,
+        51261
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " NASA",
+          "start": 15.06,
+          "end": 15.2,
+          "probability": 0.9817771315574646
+        },
+        {
+          "word": " Smoksi,",
+          "start": 15.2,
+          "end": 15.8,
+          "probability": 0.4679543773333232
+        },
+        {
+          "word": " Radiation",
+          "start": 15.98,
+          "end": 16.42,
+          "probability": 0.8237515389919281
+        },
+        {
+          "word": " Data",
+          "start": 16.42,
+          "end": 16.7,
+          "probability": 0.7443726062774658
+        },
+        {
+          "word": " and",
+          "start": 16.7,
+          "end": 17.04,
+          "probability": 0.6496802568435669
+        },
+        {
+          "word": " Plant",
+          "start": 17.04,
+          "end": 17.28,
+          "probability": 0.8425599932670593
+        },
+        {
+          "word": " Research.",
+          "start": 17.28,
+          "end": 17.64,
+          "probability": 0.8893774151802063
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 18.08,
+      "end": 19.62,
+      "text": " Connect decision to real science.",
+      "tokens": [
+        51261,
+        11653,
+        3537,
+        281,
+        957,
+        3497,
+        13,
+        51358
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Connect",
+          "start": 18.08,
+          "end": 18.22,
+          "probability": 0.974298894405365
+        },
+        {
+          "word": " decision",
+          "start": 18.22,
+          "end": 18.62,
+          "probability": 0.2637985646724701
+        },
+        {
+          "word": " to",
+          "start": 18.62,
+          "end": 18.96,
+          "probability": 0.2593368589878082
+        },
+        {
+          "word": " real",
+          "start": 18.96,
+          "end": 19.22,
+          "probability": 0.5458765029907227
+        },
+        {
+          "word": " science.",
+          "start": 19.22,
+          "end": 19.62,
+          "probability": 0.9785842299461365
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 20.16,
+      "end": 23.48,
+      "text": " Our playable prototype helps young explorers learn by doing.",
+      "tokens": [
+        51358,
+        2621,
+        37146,
+        19475,
+        3665,
+        2037,
+        24765,
+        433,
+        1466,
+        538,
+        884,
+        13,
+        51554
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5287535696318655,
+      "compression_ratio": 1.4326530612244899,
+      "no_speech_prob": 0.4306762218475342,
+      "words": [
+        {
+          "word": " Our",
+          "start": 20.16,
+          "end": 20.36,
+          "probability": 0.9821125268936157
+        },
+        {
+          "word": " playable",
+          "start": 20.36,
+          "end": 20.78,
+          "probability": 0.9364760518074036
+        },
+        {
+          "word": " prototype",
+          "start": 20.78,
+          "end": 21.28,
+          "probability": 0.9825849533081055
+        },
+        {
+          "word": " helps",
+          "start": 21.28,
+          "end": 21.74,
+          "probability": 0.8182991743087769
+        },
+        {
+          "word": " young",
+          "start": 21.74,
+          "end": 21.96,
+          "probability": 0.7964815497398376
+        },
+        {
+          "word": " explorers",
+          "start": 21.96,
+          "end": 22.66,
+          "probability": 0.9436604082584381
+        },
+        {
+          "word": " learn",
+          "start": 22.66,
+          "end": 22.94,
+          "probability": 0.9201740026473999
+        },
+        {
+          "word": " by",
+          "start": 22.94,
+          "end": 23.24,
+          "probability": 0.9859323501586914
+        },
+        {
+          "word": " doing.",
+          "start": 23.24,
+          "end": 23.48,
+          "probability": 0.8717553615570068
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,3 +1,5 @@
+> **Implementation update ? 14 November 2026:** The user authorized implementation. The model-based world, contextual mission controls, walking and collision system are now implemented locally. See [Implementation.md](Implementation.md) for current behavior, asset sources, verification and remaining gaps. Earlier planning/setup statements below are historical.
+
 # اللي اتجهّز واللي مطلوب منك دلوقتي
 
 تاريخ التحديث: 13 نوفمبر 2026. الشغل هنا في `Assets` و`docs` فقط، من غير تعديل كود اللعبة أو إعداداتها.

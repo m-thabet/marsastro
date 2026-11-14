@@ -1,0 +1,11 @@
+{
+  "voiceFile": "C:\\Users\\mahmo\\Downloads\\ElevenLabs_2026-11-14T06_34_03_Dmitry - Energetic and Confident_pvc_s50_v3.mp3",
+  "voiceDurationSeconds": 27.402458333333332,
+  "voiceOffsetSeconds": 0.2,
+  "voiceEndsSeconds": 27.60245833333333,
+  "voiceTimeStretch": false,
+  "score": "Original synthesized space-adventure composition, 104 BPM, D minor",
+  "speechMusicDifferenceDB": 15.004910488313378,
+  "mixPeakDBFS": -2.9184603691101074,
+  "commonGain": 1
+}

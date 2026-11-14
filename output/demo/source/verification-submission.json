@@ -1,0 +1,25 @@
+{
+  "file": "Mars-Mission-Commander-Demo-Submission.mp4",
+  "duration": 29.5,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frameCount": 885,
+  "fps": "30/1",
+  "videoCodec": "h264",
+  "audioCodec": "aac",
+  "audioSampleRate": "48000",
+  "audioChannels": 2,
+  "integratedLoudnessLUFS": -16.26,
+  "truePeakDBTP": -4.25,
+  "originalVoicePreserved": true,
+  "decodeCheck": "passed",
+  "englishCaptions": "burned in; separate SRT supplied",
+  "sizeBytes": 6206609,
+  "replacementVoiceDurationSeconds": 27.402458333333332,
+  "voiceEndsSeconds": 27.60245833333333,
+  "voiceTimeStretch": false,
+  "speechMusicDifferenceDB": 15.004910488313378,
+  "generatedAudioMetadataAcknowledgement": true
+}

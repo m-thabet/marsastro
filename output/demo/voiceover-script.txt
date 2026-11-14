@@ -1,0 +1,28 @@
+MARS MISSION COMMANDER | Team plus c
+English voiceover | Target: 27-28 seconds | Final video: under 30 seconds
+
+We're plus C. Our challenge: Junior Astronaut Mission Trainer.
+
+Space survival is hard to teach. Meet Mars Mission Commander.
+
+Explore Mars. Balance oxygen, power, and food. See every choice change your mission.
+
+NASA's MOXIE, radiation data, and plant research connect decisions to real science.
+
+Our playable prototype helps young explorers learn by doing.
+
+DELIVERY NOTES (do not read aloud)
+Confident, curious, adventurous; clear pronunciation and a warm finish.
+Use an adult voice. Read 'plus C' as 'plus see', 'MOXIE' as 'mock-see', and NASA as 'nass-uh'.
+Aim for 27-28 seconds, including brief pauses. Export a clean voice-only WAV or MP3.
+Music and effects will be added in the edit.
+
+PLANNED SOUND DESIGN
+Opening: deep space ambience, soft rising pulse, orbital whoosh.
+Gameplay: game UI select/confirm tones and restrained transition sweeps.
+Science: light discovery chime and subtle electronic pulses.
+Closing: warm tonal resolution, fading below the final words.
+
+SUBMISSION DISCLOSURE
+The final description and audio metadata must acknowledge AI-generated voiceover.
+The final video will carry a visible AI-assistance label and identify the game as a prototype.

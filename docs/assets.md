@@ -1,3 +1,5 @@
+> **Implementation update ? 14 November 2026:** Optimized runtime exports and new Blender sources are now integrated. See [Implementation.md](Implementation.md) and the [runtime asset report](../public/assets/models/asset-report.json). The checklist below remains the original production brief; review-master filenames differ from the runtime delivery names.
+
 # Mars Mission Commander — asset production checklist
 
 Updated 13 November 2026. This is the authoritative asset brief for the full-screen 3D Mars experience described in [solution.md](solution.md) and [tech plan.md](tech%20plan.md). Application development remains paused for review. All dimensions, polygon counts, and durations below are project production targets, not scientific measurements.

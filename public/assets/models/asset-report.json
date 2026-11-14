@@ -1,0 +1,87 @@
+[
+  {
+    "asset": "habitat",
+    "bytes": 581184,
+    "triangles": 11458
+  },
+  {
+    "asset": "power",
+    "bytes": 836336,
+    "triangles": 9216
+  },
+  {
+    "asset": "life-support",
+    "bytes": 695992,
+    "triangles": 10374
+  },
+  {
+    "asset": "greenhouse",
+    "bytes": 888876,
+    "triangles": 12829
+  },
+  {
+    "asset": "landing-pad",
+    "bytes": 2130256,
+    "triangles": 21784
+  },
+  {
+    "asset": "laboratory",
+    "bytes": 310328,
+    "triangles": 4034
+  },
+  {
+    "asset": "communications",
+    "bytes": 117160,
+    "triangles": 2721
+  },
+  {
+    "asset": "storage",
+    "bytes": 72700,
+    "triangles": 1372
+  },
+  {
+    "asset": "rover",
+    "bytes": 479244,
+    "triangles": 4992
+  },
+  {
+    "asset": "shelter",
+    "bytes": 149156,
+    "triangles": 1844
+  },
+  {
+    "asset": "commander",
+    "bytes": 218780,
+    "triangles": 5200
+  },
+  {
+    "asset": "lander",
+    "bytes": 205068,
+    "triangles": 2528
+  },
+  {
+    "asset": "terrain",
+    "bytes": 680252,
+    "triangles": 20000
+  },
+  {
+    "asset": "rock",
+    "bytes": 9480,
+    "triangles": 80
+  },
+  {
+    "asset": "paths",
+    "bytes": 30084,
+    "triangles": 396
+  },
+  {
+    "asset": "power-equipment",
+    "bytes": 181644,
+    "triangles": 1680
+  },
+  {
+    "asset": "storage-equipment",
+    "bytes": 279596,
+    "triangles": 2520
+  }
+]
